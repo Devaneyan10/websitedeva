@@ -298,10 +298,12 @@ export default function Home() {
             </div>
           </div>
 
-          <div className="hero-photo-wrap">
-            <img className="hero-photo" src="/websitedeva/profile.jpg" alt="Devaneyan Muniandy" />
+          <div className="hero-photo-wrap"> 
+            <img className="hero-photo" 
+            src="/websitedeva/profile.jpg" 
+            alt="Devaneyan Muniandy" /> 
+            </div>
           </div>
-        </div>
       </section>
 
       <section className="recruiter-strip">
