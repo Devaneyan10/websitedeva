@@ -299,7 +299,7 @@ export default function Home() {
           </div>
 
           <div className="hero-photo-wrap">
-            <img className="hero-photo" src="/profile.jpg" alt="Devaneyan Muniandy" />
+            <img className="hero-photo" src="/websitedeva/profile.jpg" alt="Devaneyan Muniandy" />
           </div>
         </div>
       </section>
