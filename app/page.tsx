@@ -267,7 +267,13 @@ export default function Home() {
             {["About", "Experience", "Projects", "Services", "Contact"].map((item) => (
               <a key={item} href={`#${item.toLowerCase()}`} onClick={closeMenu}>{item}</a>
             ))}
-            <a className="nav-cta" href={email}>Resume ↗</a>
+            <a
+              className="nav-cta"
+              href="/websitedeva/resume.pdf"
+              download="Devaneyan_Muniandy_Resume.pdf"
+            >
+            Resume ↓
+            </a>
           </nav>
         </div>
       </header>
