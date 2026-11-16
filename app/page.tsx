@@ -303,7 +303,7 @@ export default function Home() {
               <a href={linkedIn} target="_blank" rel="noreferrer" aria-label="LinkedIn">in</a>
               <a href={email} aria-label="Email">@</a>
               <a
-                href="https://wa.me/601135305617"
+                href="https://wa.me/601135305617?text=Hi%20Deva!%20I%20came%20across%20your%20portfolio%20and%20would%20like%20to connect%20with%20you."
                 target="_blank"
                 rel="noreferrer"
                 aria-label="WhatsApp"
