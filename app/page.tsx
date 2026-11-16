@@ -203,7 +203,7 @@ const experience = [
   {
     company: "The Access Group",
     role: "Data Analyst | K-Youth Programme",
-    period: "Jun 2026 — Present",
+    period: "Jun 2026 — Oct 2026",
     location: "Hybrid · GTS ITSM Tooling Team",
     bullets: [
       "Co-lead AI-augmented reporting workflows using Claude, Databricks and SQL to transform operational data into automated reporting, commentary, trends and insights.",
