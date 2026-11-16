@@ -298,19 +298,31 @@ export default function Home() {
               <span>🎓 BSc (Hons) Artificial Intelligence</span>
               <span>⚡ GenAI · Automation · Full Stack</span>
             </div>
+            
             <div className="social-row">
               <a href={linkedIn} target="_blank" rel="noreferrer" aria-label="LinkedIn">in</a>
               <a href={email} aria-label="Email">@</a>
+              <a
+                href="https://wa.me/601135305617"
+                target="_blank"
+                rel="noreferrer"
+                aria-label="WhatsApp"
+                title="WhatsApp"
+              >
+                <img src="/assets/png/whatsapp-ico.png" alt="WhatsApp" />
+              </a>
             </div>
-          </div>
-
-          <div className="hero-photo-wrap"> 
-            <img className="hero-photo" 
-            src="/websitedeva/profile.jpg" 
-            alt="Devaneyan Muniandy" /> 
             </div>
-          </div>
-      </section>
+            
+            <div className="hero-photo-wrap">
+              <img
+                className="hero-photo"
+                src="/websitedeva/profile.jpg"
+                alt="Devaneyan Muniandy"
+              />
+            </div>
+            </div>
+            </section>
 
       <section className="recruiter-strip">
         <div className="container metric-grid">
