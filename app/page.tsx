@@ -2,7 +2,7 @@
 
 import { useMemo, useState } from "react";
 
-const linkedIn = "https://www.linkedin.com/in/devaneyanmuniandy-909275194";
+const linkedIn = "https://www.linkedin.com/in/devaneyan-muniandy-909275194/";
 const email = "mailto:devaneyan2000@gmail.com";
 
 type Project = {
